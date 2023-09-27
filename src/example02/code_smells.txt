@@ -1,0 +1,7 @@
+1 - Linhas em branco
+2 - Comentários
+3 - Condições confusas
+4 - Tratamento inadequado de exception
+5 - Declaração da variável longe da utilização
+6 - Algoritmo confuso
+7 - Nomes estranhos
